@@ -6,3 +6,8 @@ Then head to the `db/seed.rb` file and look at the models that are created initi
 Add validators to your models and try them out in the rails console.
 
 Finally, add the necessary callbacks to the `Ticket` class. You will see that there is some starter code for a callback handler.
+
+
+Alumno:
+
+Francisco Barros Cruz
